@@ -1,1 +1,0 @@
-module.exports = require('./umd/x-form.min.js')
